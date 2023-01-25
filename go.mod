@@ -1,4 +1,4 @@
-module github.com/hstove/gender
+module github.com/allapospelova/gender
 
 go 1.18
 
